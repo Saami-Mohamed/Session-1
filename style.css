@@ -1,0 +1,31 @@
+/*type selector*/
+body{
+  text-align: center;
+  background-color:rgb(80, 100, 182);
+  margin:0pt;
+  image-orientation: <img src = "logo.png" alt="tmc">
+  margin:auto;
+
+}
+
+/*type selector*/
+h1{
+  color: rgb(0, 0, 0);
+  font-size: 40pt;
+  font-family:cursive ;
+}
+
+/*class selector*/
+h1{
+  font-weight: bold;
+}
+
+
+/*id selector*/
+#para1{
+  color:rgb(0, 255, 214)
+}
+
+#para2{
+   color:#ff00ed
+}
